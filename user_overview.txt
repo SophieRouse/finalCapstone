@@ -1,0 +1,5 @@
+Total Users:		2
+Total Tasks:		4
+USER		TASKS		%ASSIGNED	%COMPLETE	%INCOMPLETE	%OVERDUE
+admin:		2		50.00		50.00		50.00		50.00
+Jack:		2		50.00		0.00		100.00		0.00
